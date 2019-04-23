@@ -1,0 +1,25 @@
+{
+  "name": "vogon-ipsum",
+  "version": "0.0.1",
+  "description": "Generate authentic Vogon gibberish",
+  "repository": {
+    "url": "https://github.com/sirilyan/vogon-ipsum"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vogon",
+    "hitchhikers",
+    "infocom",
+    "lorem",
+    "ipsum"
+  ],
+  "author": "Doug SHeppard <doug@dsheppard.ca>",
+  "bugs": {
+    "url": "https://github.com/sirilyan/vogon-ipsum/issues"
+  },
+  "homepage": "https://github.com/sirilyan/vogon-ipsum",
+  "license": "BSD"
+}
